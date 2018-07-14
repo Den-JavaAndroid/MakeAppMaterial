@@ -1,0 +1,12 @@
+<resources>
+
+    <item name="detail_body_line_spacing_multiplier" format="float" type="fraction">1.3</item>
+
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="list_side_margin">64dp</dimen>
+    <dimen name="list_toolbar_side_margin">48dp</dimen>
+    <dimen name="details_card_width">600dp</dimen>
+    <dimen name="details_card_margin">16dp</dimen>
+    <dimen name="details_nested_content_top_margin">-160dp</dimen>
+
+</resources>
